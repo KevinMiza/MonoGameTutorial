@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# MonoGame content pipeline
+Content/bin/
+Content/obj/
+
+# NuGet
+packages/
+*.nupkg
