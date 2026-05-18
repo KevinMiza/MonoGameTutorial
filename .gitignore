@@ -1,0 +1,66 @@
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+
+# Rider & ReSharper
+*.sln.iml
+_ReSharper*/
+*.DotSettings.user
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.rsuser
+*.VC.db
+*.vcxproj.user
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+project.assets.json
+
+# VS Code workspace storage
+.vscode/*workspace*
+
+# MonoGame / Content Pipeline
+# compiled content and temporary content pipeline files
+*.xnb
+**/Content/bin/
+**/Content/obj/
+*.mgcb.cache
+*.mgcb.imports
+*.mgcb.user
+
+# Publish output
+/publish/
+
+# Test results
+TestResults/
+*.trx
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.DS_Store
+
+# Backup / miscellaneous
+*.bak
+*.old
+~$*
